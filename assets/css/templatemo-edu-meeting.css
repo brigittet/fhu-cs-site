@@ -310,6 +310,12 @@ header
   line-height: 75px;
 }
 
+/* .fhu-logo img {
+  max-height: 110px;
+  max-width: 50px;
+  padding-right: 5px;
+} */
+
 .background-header .nav {
   margin-top: 20px !important;
 }
@@ -897,7 +903,7 @@ section.upcoming-meetings {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  padding-top: 230px;
+  padding-top: 110px;
   padding-bottom: 110px;
 }
 
@@ -959,6 +965,7 @@ section.upcoming-meetings .categories .main-button-red a {
 .meeting-item .thumb img {
   border-top-right-radius: 20px;
   border-top-left-radius: 20px;
+  max-height: 215px;
 }
 
 .meeting-item .thumb .price {
@@ -1032,7 +1039,7 @@ apply now
 */
 
 section.apply-now {
-  background-image: url(../images/apply-bg.jpg);
+  background-image: url(../images/5.7.21_FHU\ Bound\ App\ Development-0210.jpg); /*required classes background image */
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -1264,7 +1271,7 @@ our facts
 */
 
 section.our-facts {
-  background-image: url(../images/facts-bg.jpg);
+  background-image: url(../images/5.7.21_FHU\ Bound\ App\ Development-0183.jpg);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -1314,7 +1321,7 @@ section.our-facts h2 {
 section.our-facts .video {
   text-align: center;
   margin-left: 70px;
-  background-image: url(../images/video-item-bg.jpg);
+  background-image: url(../images/emile-perron-xrVDYZRGdw4-unsplash.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
