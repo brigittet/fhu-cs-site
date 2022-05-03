@@ -1137,11 +1137,12 @@ section.our-courses {
 }
 
 .our-courses .item .down-content h4 {
-  padding: 25px;
+  padding: 20px;
   font-size: 18px;
   color: #1f272b;
   text-align: center; 
   border-bottom: 1px solid #eee;
+  min-height: 145px;
 }
 
 .our-courses .item .down-content .info {
